@@ -33,7 +33,7 @@ The dataset includes the following two main folders:
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/carotid-artery-segmentation.git
+git clone https://github.com/Yasmixe/Carotid_artery_segmentation.git
 cd carotid-artery-segmentation
 
 ```
